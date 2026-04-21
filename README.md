@@ -1,37 +1,27 @@
-🦠 COVID-19 Data Analysis using Plotly
-📌 Overview
+🚀 COVID-19 Data Analysis using Plotly
 
-This project focuses on analyzing COVID-19 data using Python with interactive visualizations powered by Plotly. The aim is to explore trends, compare countries, and understand the pandemic through dynamic graphs and dashboards.
+I recently worked on a data analysis project where I explored COVID-19 trends using Python and interactive visualizations.
 
-🚀 Features
-📊 Data Cleaning & Preprocessing
-📈 Interactive Data Visualization (Plotly)
-🌍 Country-wise COVID Analysis
-📅 Time Series Trends
-🔎 Comparative Analysis (Cases, Deaths, Recoveries)
-🛠️ Technologies Used
-Python 🐍
-Pandas
-NumPy
-Plotly (Interactive Graphs)
-Jupyter Notebook
-📂 Project Structure
-covid-analysis/
-│
-├── covid.ipynb        # Main notebook with analysis
-├── dataset.csv        # COVID dataset
-└── README.md          # Documentation
-📊 Visualizations (Plotly)
-📈 Line charts for case trends
-📊 Bar charts for country comparison
-🌍 Interactive maps (if used)
-🔄 Real-time hover & zoom features
-▶️ How to Run
-Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-Open the folder:
-cd your-repo-name
-Install required libraries:
-pip install pandas numpy plotly
-Run the notebook:
-jupyter notebook covid.ipynb
+In this project, I focused on understanding how the pandemic evolved over time and how different countries were affected. Using Plotly made the analysis more powerful with dynamic and interactive charts.
+
+🔍 What I did in this project:
+• Cleaned and processed real-world COVID-19 dataset
+• Performed Exploratory Data Analysis (EDA)
+• Analyzed country-wise and global trends
+• Built interactive visualizations using Plotly
+• Compared cases, deaths, and recovery patterns
+
+📊 Key Highlights:
+• Time-series analysis of COVID-19 spread
+• Interactive graphs with zoom & hover features
+• Clear insights into peak infection periods
+• Easy comparison between multiple countries
+
+🛠️ Tech Stack:
+Python | Pandas | NumPy | Plotly | Jupyter Notebook
+
+This project helped me strengthen my data analysis and visualization skills, especially working with interactive dashboards.
+
+📌 Next, I’m planning to add machine learning models and deploy this as a live dashboard.
+
+#DataAnalytics #Python #Plotly #DataScience #COVID19 #EDA #Visualization #Projects #Learning
